@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
+    <lastmod>2022-06-14T13:17:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -12,6 +13,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="/"
+                />
+  </url><url>
+    <loc>/projects/polygon/</loc>
+    <lastmod>2022-06-14T13:17:18-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/projects/polygon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/projects/polygon/"
+                />
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2022-06-14T13:17:18-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/projects/"
+                />
+  </url><url>
+    <loc>/projects/pfront/</loc>
+    <lastmod>2022-06-14T12:17:54-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/projects/pfront/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/projects/pfront/"
+                />
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2022-06-14T11:42:12-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/about/"
                 />
   </url><url>
     <loc>/categories/</loc>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
-    <link>/en/</link>
-    <description>Recent content on Terminal</description>
+    <title>Projects on Terminal</title>
+    <link>/en/projects/</link>
+    <description>Recent content in Projects on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Tue, 14 Jun 2022 14:13:14 -0500</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 13:17:54 -0500</lastBuildDate><atom:link href="/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pfront</title>
       <link>/en/projects/pfront/</link>
@@ -15,32 +15,6 @@
       <guid>/en/projects/pfront/</guid>
       <description>Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.</description>
       <content>&lt;p&gt;Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/en/about/</link>
-      <pubDate>Tue, 14 Jun 2022 11:42:29 -0500</pubDate>
-      
-      <guid>/en/about/</guid>
-      <description>Informatics engineering student. Tech enthusiast. Permanentely willing to learn new things, and find practial appliances for those concepts.
-Technologies i&amp;rsquo;ve worked with Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (SvelteKit) Interested in Backend development Data mining GraphQL </description>
-      <content>&lt;p&gt;Informatics engineering student. Tech enthusiast. Permanentely willing to learn new things, and find practial appliances for those concepts.&lt;/p&gt;
-&lt;h3 id=&#34;technologies-ive-worked-with&#34;&gt;Technologies i&amp;rsquo;ve worked with&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Golang (Echo, bun, GORM, HUGO)&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;PostgreSQL / MySQL / MariaDB / SQLite&lt;/li&gt;
-&lt;li&gt;HTML/CSS (Bootstrap / TailwindCSS)&lt;/li&gt;
-&lt;li&gt;Javascript (SvelteKit)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;interested-in&#34;&gt;Interested in&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Backend development&lt;/li&gt;
-&lt;li&gt;Data mining&lt;/li&gt;
-&lt;li&gt;GraphQL&lt;/li&gt;
-&lt;/ul&gt;
 </content>
     </item>
     

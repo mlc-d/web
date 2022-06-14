@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mlc</title>
-    <link>/</link>
-    <description>Recent content on mlc</description>
+    <title>Projects on mlc</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on mlc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Tue, 14 Jun 2022 13:17:18 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 13:17:18 -0500</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Polygon</title>
       <link>/projects/polygon/</link>
@@ -28,32 +28,6 @@ Código fuente.</description>
       <guid>/projects/pfront/</guid>
       <description>Interactuar con la API de Polygon a través de curl o Postman puede resultar tedioso. Para facilitar el proceso, creé un cliente frontend, utilizando el framework que, en mi opinión, entrega resultados más rápidamente: SvelteKit.</description>
       <content>&lt;p&gt;Interactuar con la API de Polygon a través de &lt;em&gt;curl&lt;/em&gt; o Postman puede resultar tedioso. Para facilitar el proceso, creé un cliente frontend, utilizando el framework que, en mi opinión, entrega resultados más rápidamente: SvelteKit.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Acerca de</title>
-      <link>/about/</link>
-      <pubDate>Tue, 14 Jun 2022 11:42:12 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantemente aprendiendo cosas nuevas, y buscando aplicaciones prácticas para tales conceptos.
-Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (SvelteKit) Intereses Desarrollo backend Minería de datos GraphQL </description>
-      <content>&lt;p&gt;Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantemente aprendiendo cosas nuevas, y buscando aplicaciones prácticas para tales conceptos.&lt;/p&gt;
-&lt;h3 id=&#34;tecnologías-con-las-que-he-trabajado&#34;&gt;Tecnologías con las que he trabajado&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Golang (Echo, bun, GORM, HUGO)&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;PostgreSQL / MySQL / MariaDB / SQLite&lt;/li&gt;
-&lt;li&gt;HTML/CSS (Bootstrap / TailwindCSS)&lt;/li&gt;
-&lt;li&gt;Javascript (SvelteKit)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;intereses&#34;&gt;Intereses&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Desarrollo backend&lt;/li&gt;
-&lt;li&gt;Minería de datos&lt;/li&gt;
-&lt;li&gt;GraphQL&lt;/li&gt;
-&lt;/ul&gt;
 </content>
     </item>
     
