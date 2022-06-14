@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-06-14T11:42:29-05:00
-draft: true
+draft: false
 translationKey: about
 ---
 
