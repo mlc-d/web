@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://mlc-d.github.io/web/'
 languageCode = 'es-co'
 title = 'My New Hugo Site'
 theme = "terminal"

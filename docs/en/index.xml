@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>/en/</link>
+    <link>https://mlc-d.github.io/web/en/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Tue, 14 Jun 2022 14:13:14 -0500</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 14:13:14 -0500</lastBuildDate><atom:link href="https://mlc-d.github.io/web/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pfront</title>
-      <link>/en/projects/pfront/</link>
+      <link>https://mlc-d.github.io/web/en/projects/pfront/</link>
       <pubDate>Tue, 14 Jun 2022 13:17:54 -0500</pubDate>
       
-      <guid>/en/projects/pfront/</guid>
+      <guid>https://mlc-d.github.io/web/en/projects/pfront/</guid>
       <description>Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.</description>
       <content>&lt;p&gt;Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.&lt;/p&gt;
 </content>
@@ -20,10 +20,10 @@
     
     <item>
       <title>About</title>
-      <link>/en/about/</link>
+      <link>https://mlc-d.github.io/web/en/about/</link>
       <pubDate>Tue, 14 Jun 2022 11:42:29 -0500</pubDate>
       
-      <guid>/en/about/</guid>
+      <guid>https://mlc-d.github.io/web/en/about/</guid>
       <description>Informatics engineering student. Tech enthusiast. Permanentely willing to learn new things, and find practial appliances for those concepts.
 Technologies i&amp;rsquo;ve worked with Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (SvelteKit) Interested in Backend development Data mining GraphQL </description>
       <content>&lt;p&gt;Informatics engineering student. Tech enthusiast. Permanentely willing to learn new things, and find practial appliances for those concepts.&lt;/p&gt;
@@ -46,10 +46,10 @@ Technologies i&amp;rsquo;ve worked with Golang (Echo, bun, GORM, HUGO) Python Po
     
     <item>
       <title>Polygon</title>
-      <link>/en/projects/polygon/</link>
+      <link>https://mlc-d.github.io/web/en/projects/polygon/</link>
       <pubDate>Tue, 14 Jun 2022 11:26:32 -0500</pubDate>
       
-      <guid>/en/projects/polygon/</guid>
+      <guid>https://mlc-d.github.io/web/en/projects/polygon/</guid>
       <description>WMS (warehouse management system) API built with Golang. It uses Echo as web server, and bun as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.
 Source code.</description>
       <content>&lt;p&gt;WMS &lt;em&gt;(warehouse management system)&lt;/em&gt; API built with Golang. It uses &lt;a href=&#34;&#34;&gt;Echo&lt;/a&gt; as web server, and &lt;a href=&#34;&#34;&gt;bun&lt;/a&gt; as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.&lt;/p&gt;

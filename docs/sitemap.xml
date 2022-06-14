@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>/en/sitemap.xml</loc>
+    <loc>https://mlc-d.github.io/web/en/sitemap.xml</loc>
     
       <lastmod>2022-06-14T13:17:54-05:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>/es/sitemap.xml</loc>
+    <loc>https://mlc-d.github.io/web/es/sitemap.xml</loc>
     
       <lastmod>2022-06-14T13:17:18-05:00</lastmod>
     

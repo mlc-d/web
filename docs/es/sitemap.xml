@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://mlc-d.github.io/web/</loc>
     <lastmod>2022-06-14T13:17:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://mlc-d.github.io/web/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/"
+                href="https://mlc-d.github.io/web/"
                 />
   </url><url>
-    <loc>/projects/polygon/</loc>
+    <loc>https://mlc-d.github.io/web/projects/polygon/</loc>
     <lastmod>2022-06-14T13:17:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/projects/polygon/"
+                href="https://mlc-d.github.io/web/en/projects/polygon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/projects/polygon/"
+                href="https://mlc-d.github.io/web/projects/polygon/"
                 />
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://mlc-d.github.io/web/projects/</loc>
     <lastmod>2022-06-14T13:17:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/projects/"
+                href="https://mlc-d.github.io/web/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/projects/"
+                href="https://mlc-d.github.io/web/projects/"
                 />
   </url><url>
-    <loc>/projects/pfront/</loc>
+    <loc>https://mlc-d.github.io/web/projects/pfront/</loc>
     <lastmod>2022-06-14T12:17:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/projects/pfront/"
+                href="https://mlc-d.github.io/web/en/projects/pfront/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/projects/pfront/"
+                href="https://mlc-d.github.io/web/projects/pfront/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://mlc-d.github.io/web/about/</loc>
     <lastmod>2022-06-14T11:42:12-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://mlc-d.github.io/web/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/about/"
+                href="https://mlc-d.github.io/web/about/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://mlc-d.github.io/web/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://mlc-d.github.io/web/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/"
+                href="https://mlc-d.github.io/web/categories/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://mlc-d.github.io/web/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://mlc-d.github.io/web/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/"
+                href="https://mlc-d.github.io/web/tags/"
                 />
   </url>
 </urlset>
