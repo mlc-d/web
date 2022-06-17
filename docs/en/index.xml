@@ -13,8 +13,10 @@
       <pubDate>Tue, 14 Jun 2022 13:17:54 -0500</pubDate>
       
       <guid>https://mlc-d.github.io/web/en/projects/pfront/</guid>
-      <description>Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.</description>
+      <description>Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.
+Source code.</description>
       <content>&lt;p&gt;Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/pfront&#34;&gt;Source code.&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
