@@ -5,12 +5,24 @@
     <link>https://mlc-d.github.io/web/projects/</link>
     <description>Recent content in Projects on mlc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-co</language>
-    <lastBuildDate>Tue, 14 Jun 2022 13:17:18 -0500</lastBuildDate><atom:link href="https://mlc-d.github.io/web/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-co</language><atom:link href="https://mlc-d.github.io/web/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pfront</title>
+      <link>https://mlc-d.github.io/web/projects/pfront/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlc-d.github.io/web/projects/pfront/</guid>
+      <description>Interactuar con la API de Polygon a través de curl o Postman puede resultar tedioso. Para facilitar el proceso, creé un cliente frontend, utilizando el framework que, en mi opinión, entrega resultados más rápidamente: SvelteKit.
+Código fuente.</description>
+      <content>&lt;p&gt;Interactuar con la API de Polygon a través de &lt;em&gt;curl&lt;/em&gt; o Postman puede resultar tedioso. Para facilitar el proceso, creé un cliente frontend, utilizando el framework que, en mi opinión, entrega resultados más rápidamente: SvelteKit.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/pfront&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Polygon</title>
       <link>https://mlc-d.github.io/web/projects/polygon/</link>
-      <pubDate>Tue, 14 Jun 2022 13:17:18 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mlc-d.github.io/web/projects/polygon/</guid>
       <description>Polygon API WMS (sistema de administración de almacenes) construída con Golang, usando Echo como servidor web, y bun como ORM (mapeo relacional de objetos). Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.
@@ -22,15 +34,15 @@ Código fuente.</description>
     </item>
     
     <item>
-      <title>Pfront</title>
-      <link>https://mlc-d.github.io/web/projects/pfront/</link>
-      <pubDate>Tue, 14 Jun 2022 12:17:54 -0500</pubDate>
+      <title>Receipts</title>
+      <link>https://mlc-d.github.io/web/projects/receipts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mlc-d.github.io/web/projects/pfront/</guid>
-      <description>Interactuar con la API de Polygon a través de curl o Postman puede resultar tedioso. Para facilitar el proceso, creé un cliente frontend, utilizando el framework que, en mi opinión, entrega resultados más rápidamente: SvelteKit.
+      <guid>https://mlc-d.github.io/web/projects/receipts/</guid>
+      <description>En casa, varios apartementos comparten las cuentas de las facturas. La persona encargada de pagarlas tenía un método ineficiente para tan problema. Hice una API sencilla que almacena el registro de facturas y calcula los pagos de acuerdo a las instrucciones específicas que recibí de la persona a cargo de los apartamentos.
 Código fuente.</description>
-      <content>&lt;p&gt;Interactuar con la API de Polygon a través de &lt;em&gt;curl&lt;/em&gt; o Postman puede resultar tedioso. Para facilitar el proceso, creé un cliente frontend, utilizando el framework que, en mi opinión, entrega resultados más rápidamente: SvelteKit.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/pfront&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
+      <content>&lt;p&gt;En casa, varios apartementos comparten las cuentas de las facturas. La persona encargada de pagarlas tenía un método ineficiente para tan problema. Hice una API sencilla que almacena el registro de facturas y calcula los pagos de acuerdo a las instrucciones específicas que recibí de la persona a cargo de los apartamentos.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/receipts&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     

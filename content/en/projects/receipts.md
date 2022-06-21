@@ -1,6 +1,6 @@
 ---
 title: "Receipts"
-date: 2022-06-14T11:26:32-05:00
+date:
 draft: false
 ---
 

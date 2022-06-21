@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mlc-d.github.io/web/en/</loc>
-    <lastmod>2022-06-14T13:17:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -14,48 +13,6 @@
                 hreflang="en"
                 href="https://mlc-d.github.io/web/en/"
                 />
-  </url><url>
-    <loc>https://mlc-d.github.io/web/en/projects/pfront/</loc>
-    <lastmod>2022-06-14T13:17:54-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mlc-d.github.io/web/projects/pfront/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mlc-d.github.io/web/en/projects/pfront/"
-                />
-  </url><url>
-    <loc>https://mlc-d.github.io/web/en/projects/</loc>
-    <lastmod>2022-06-14T13:17:54-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mlc-d.github.io/web/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mlc-d.github.io/web/en/projects/"
-                />
-  </url><url>
-    <loc>https://mlc-d.github.io/web/en/projects/polygon/</loc>
-    <lastmod>2022-06-14T11:26:32-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mlc-d.github.io/web/projects/polygon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mlc-d.github.io/web/en/projects/polygon/"
-                />
-  </url><url>
-    <loc>https://mlc-d.github.io/web/en/projects/receipts/</loc>
-    <lastmod>2022-06-14T11:26:32-05:00</lastmod>
   </url><url>
     <loc>https://mlc-d.github.io/web/en/about/</loc>
     <xhtml:link
@@ -91,6 +48,54 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mlc-d.github.io/web/en/contact/"
+                />
+  </url><url>
+    <loc>https://mlc-d.github.io/web/en/projects/pfront/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mlc-d.github.io/web/projects/pfront/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mlc-d.github.io/web/en/projects/pfront/"
+                />
+  </url><url>
+    <loc>https://mlc-d.github.io/web/en/projects/polygon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mlc-d.github.io/web/projects/polygon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mlc-d.github.io/web/en/projects/polygon/"
+                />
+  </url><url>
+    <loc>https://mlc-d.github.io/web/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mlc-d.github.io/web/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mlc-d.github.io/web/en/projects/"
+                />
+  </url><url>
+    <loc>https://mlc-d.github.io/web/en/projects/receipts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mlc-d.github.io/web/projects/receipts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mlc-d.github.io/web/en/projects/receipts/"
                 />
   </url><url>
     <loc>https://mlc-d.github.io/web/en/tags/</loc>

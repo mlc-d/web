@@ -1,6 +1,5 @@
 ---
 title: "Polygon"
-date: 2022-06-14T13:17:18-05:00
 draft: false
 ---
 

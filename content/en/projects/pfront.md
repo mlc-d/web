@@ -1,6 +1,6 @@
 ---
 title: "Pfront"
-date: 2022-06-14T13:17:54-05:00
+date:
 draft: false
 ---
 

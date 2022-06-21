@@ -5,12 +5,11 @@
     <link>https://mlc-d.github.io/web/en/projects/</link>
     <description>Recent content in Projects on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-co</language>
-    <lastBuildDate>Tue, 14 Jun 2022 13:17:54 -0500</lastBuildDate><atom:link href="https://mlc-d.github.io/web/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-co</language><atom:link href="https://mlc-d.github.io/web/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pfront</title>
       <link>https://mlc-d.github.io/web/en/projects/pfront/</link>
-      <pubDate>Tue, 14 Jun 2022 13:17:54 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mlc-d.github.io/web/en/projects/pfront/</guid>
       <description>Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.
@@ -23,7 +22,7 @@ Source code.</description>
     <item>
       <title>Polygon</title>
       <link>https://mlc-d.github.io/web/en/projects/polygon/</link>
-      <pubDate>Tue, 14 Jun 2022 11:26:32 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mlc-d.github.io/web/en/projects/polygon/</guid>
       <description>WMS (warehouse management system) API built with Golang. It uses Echo as web server, and bun as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.
@@ -36,7 +35,7 @@ Source code.</description>
     <item>
       <title>Receipts</title>
       <link>https://mlc-d.github.io/web/en/projects/receipts/</link>
-      <pubDate>Tue, 14 Jun 2022 11:26:32 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mlc-d.github.io/web/en/projects/receipts/</guid>
       <description>At home, several apartments share the same bills for public services. The person in charge of paying them had a rather cumbersome system; I made a simple API to store records of bills and calculate payments.

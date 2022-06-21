@@ -96,7 +96,7 @@ paginate = 5
         identifier = "contacto"
         name = "Contacto"
         url = "/contact"
-      [[language.es.menu.main]]
+      [[languages.es.menu.main]]
         identifier = "github"
         name = "Github"
         url = "https://github.com/mlc-d"
@@ -136,7 +136,7 @@ paginate = 5
         identifier = "contact"
         name = "Contact"
         url = "/en/contact"
-      [[language.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "github"
         name = "Github"
         url = "https://github.com/mlc-d"

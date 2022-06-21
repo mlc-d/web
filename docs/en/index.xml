@@ -5,47 +5,7 @@
     <link>https://mlc-d.github.io/web/en/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-co</language>
-    <lastBuildDate>Tue, 14 Jun 2022 13:17:54 -0500</lastBuildDate><atom:link href="https://mlc-d.github.io/web/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pfront</title>
-      <link>https://mlc-d.github.io/web/en/projects/pfront/</link>
-      <pubDate>Tue, 14 Jun 2022 13:17:54 -0500</pubDate>
-      
-      <guid>https://mlc-d.github.io/web/en/projects/pfront/</guid>
-      <description>Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.
-Source code.</description>
-      <content>&lt;p&gt;Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/pfront&#34;&gt;Source code.&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Polygon</title>
-      <link>https://mlc-d.github.io/web/en/projects/polygon/</link>
-      <pubDate>Tue, 14 Jun 2022 11:26:32 -0500</pubDate>
-      
-      <guid>https://mlc-d.github.io/web/en/projects/polygon/</guid>
-      <description>WMS (warehouse management system) API built with Golang. It uses Echo as web server, and bun as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.
-Source code.</description>
-      <content>&lt;p&gt;WMS &lt;em&gt;(warehouse management system)&lt;/em&gt; API built with Golang. It uses &lt;a href=&#34;https://echo.labstack.com/&#34;&gt;Echo&lt;/a&gt; as web server, and &lt;a href=&#34;https://bun.uptrace.dev/&#34;&gt;bun&lt;/a&gt; as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/polygon&#34;&gt;Source code.&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Receipts</title>
-      <link>https://mlc-d.github.io/web/en/projects/receipts/</link>
-      <pubDate>Tue, 14 Jun 2022 11:26:32 -0500</pubDate>
-      
-      <guid>https://mlc-d.github.io/web/en/projects/receipts/</guid>
-      <description>At home, several apartments share the same bills for public services. The person in charge of paying them had a rather cumbersome system; I made a simple API to store records of bills and calculate payments.
-Código fuente.</description>
-      <content>&lt;p&gt;At home, several apartments share the same bills for public services. The person in charge of paying them had a rather cumbersome system; I made a simple API to store records of bills and calculate payments.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/receipts&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
+    <language>es-co</language><atom:link href="https://mlc-d.github.io/web/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://mlc-d.github.io/web/en/about/</link>
@@ -84,6 +44,45 @@ Email Twitter: @mlc_2220 LinkedIn </description>
 &lt;h3 id=&#34;emailmailtomlcposteonet&#34;&gt;&lt;a href=&#34;mailto:m.lc@posteo.net&#34;&gt;Email&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;twitter-mlc_2220httpstwittercommlc_2220&#34;&gt;&lt;a href=&#34;https://twitter.com/mlc_2220&#34;&gt;Twitter: @mlc_2220&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;linkedinwwwlinkedincominmateo-león-camacho-572b7223a&#34;&gt;&lt;a href=&#34;www.linkedin.com/in/mateo-le%C3%B3n-camacho-572b7223a&#34;&gt;LinkedIn&lt;/a&gt;&lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Pfront</title>
+      <link>https://mlc-d.github.io/web/en/projects/pfront/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlc-d.github.io/web/en/projects/pfront/</guid>
+      <description>Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.
+Source code.</description>
+      <content>&lt;p&gt;Interacting with the Polygon API exclusively through curl or Postman can be tedious. For the sake of convenience, I built a frontend client with SvelteKit, in my opinion, the quickest framework to deliver results.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/pfront&#34;&gt;Source code.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Polygon</title>
+      <link>https://mlc-d.github.io/web/en/projects/polygon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlc-d.github.io/web/en/projects/polygon/</guid>
+      <description>WMS (warehouse management system) API built with Golang. It uses Echo as web server, and bun as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.
+Source code.</description>
+      <content>&lt;p&gt;WMS &lt;em&gt;(warehouse management system)&lt;/em&gt; API built with Golang. It uses &lt;a href=&#34;https://echo.labstack.com/&#34;&gt;Echo&lt;/a&gt; as web server, and &lt;a href=&#34;https://bun.uptrace.dev/&#34;&gt;bun&lt;/a&gt; as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/polygon&#34;&gt;Source code.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Receipts</title>
+      <link>https://mlc-d.github.io/web/en/projects/receipts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlc-d.github.io/web/en/projects/receipts/</guid>
+      <description>At home, several apartments share the same bills for public services. The person in charge of paying them had a rather cumbersome system; I made a simple API to store records of bills and calculate payments.
+Código fuente.</description>
+      <content>&lt;p&gt;At home, several apartments share the same bills for public services. The person in charge of paying them had a rather cumbersome system; I made a simple API to store records of bills and calculate payments.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/receipts&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
