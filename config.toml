@@ -11,7 +11,7 @@ paginate = 5
   contentTypeName = "../index"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
@@ -81,7 +81,7 @@ paginate = 5
 
     [languages.es.params.logo]
       logoText = ">_"
-      logoHomeLink = "/"
+      logoHomeLink = "/web/"
 
     [languages.es.menu]
       [[languages.es.menu.main]]
@@ -89,9 +89,17 @@ paginate = 5
         name = "Acerca de"
         url = "/about"
       [[languages.es.menu.main]]
-        identifier = "showcase"
+        identifier = "proyectos"
         name = "Proyectos"
         url = "/projects"
+      [[languages.es.menu.main]]
+        identifier = "contacto"
+        name = "Contacto"
+        url = "/contact"
+      [[language.es.menu.main]]
+        identifier = "github"
+        name = "Github"
+        url = "https://github.com/mlc-d"
       
 
 
@@ -113,7 +121,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = ">_"
-      logoHomeLink = "/en"
+      logoHomeLink = "/web/en"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -121,6 +129,14 @@ paginate = 5
         name = "About"
         url = "/en/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
+        identifier = "projects"
         name = "Projects"
         url = "/en/projects"
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/en/contact"
+      [[language.en.menu.main]]
+        identifier = "github"
+        name = "Github"
+        url = "https://github.com/mlc-d"

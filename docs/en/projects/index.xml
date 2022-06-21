@@ -28,8 +28,21 @@ Source code.</description>
       <guid>https://mlc-d.github.io/web/en/projects/polygon/</guid>
       <description>WMS (warehouse management system) API built with Golang. It uses Echo as web server, and bun as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.
 Source code.</description>
-      <content>&lt;p&gt;WMS &lt;em&gt;(warehouse management system)&lt;/em&gt; API built with Golang. It uses &lt;a href=&#34;&#34;&gt;Echo&lt;/a&gt; as web server, and &lt;a href=&#34;&#34;&gt;bun&lt;/a&gt; as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.&lt;/p&gt;
+      <content>&lt;p&gt;WMS &lt;em&gt;(warehouse management system)&lt;/em&gt; API built with Golang. It uses &lt;a href=&#34;https://echo.labstack.com/&#34;&gt;Echo&lt;/a&gt; as web server, and &lt;a href=&#34;https://bun.uptrace.dev/&#34;&gt;bun&lt;/a&gt; as ORM. Authentication and authorization based on a JSON Web Tokens solution (access-refresh model), full item movements history, CRUD operations.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/polygon&#34;&gt;Source code.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Receipts</title>
+      <link>https://mlc-d.github.io/web/en/projects/receipts/</link>
+      <pubDate>Tue, 14 Jun 2022 11:26:32 -0500</pubDate>
+      
+      <guid>https://mlc-d.github.io/web/en/projects/receipts/</guid>
+      <description>At home, several apartments share the same bills for public services. The person in charge of paying them had a rather cumbersome system; I made a simple API to store records of bills and calculate payments.
+Código fuente.</description>
+      <content>&lt;p&gt;At home, several apartments share the same bills for public services. The person in charge of paying them had a rather cumbersome system; I made a simple API to store records of bills and calculate payments.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/receipts&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     

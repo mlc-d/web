@@ -13,9 +13,10 @@
       <pubDate>Tue, 14 Jun 2022 13:17:18 -0500</pubDate>
       
       <guid>https://mlc-d.github.io/web/projects/polygon/</guid>
-      <description>API WMS (sistema de administración de almacenes) construída con Golang, usando Echo como servidor web, y bun como ORM (mapeo relacional de objetos). Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.
+      <description>Polygon API WMS (sistema de administración de almacenes) construída con Golang, usando Echo como servidor web, y bun como ORM (mapeo relacional de objetos). Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.
 Código fuente.</description>
-      <content>&lt;p&gt;API WMS &lt;em&gt;(sistema de administración de almacenes)&lt;/em&gt; construída con Golang, usando &lt;a href=&#34;&#34;&gt;Echo&lt;/a&gt; como servidor web, y &lt;a href=&#34;&#34;&gt;bun&lt;/a&gt; como ORM &lt;em&gt;(mapeo relacional de objetos)&lt;/em&gt;. Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.&lt;/p&gt;
+      <content>&lt;h2 id=&#34;polygon&#34;&gt;Polygon&lt;/h2&gt;
+&lt;p&gt;API WMS &lt;em&gt;(sistema de administración de almacenes)&lt;/em&gt; construída con Golang, usando &lt;a href=&#34;https://echo.labstack.com/&#34;&gt;Echo&lt;/a&gt; como servidor web, y &lt;a href=&#34;https://bun.uptrace.dev/&#34;&gt;bun&lt;/a&gt; como ORM &lt;em&gt;(mapeo relacional de objetos)&lt;/em&gt;. Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/polygon&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -36,11 +37,11 @@ Código fuente.</description>
     <item>
       <title>Acerca de</title>
       <link>https://mlc-d.github.io/web/about/</link>
-      <pubDate>Tue, 14 Jun 2022 11:42:12 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mlc-d.github.io/web/about/</guid>
       <description>Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantemente aprendiendo cosas nuevas, y buscando aplicaciones prácticas para tales conceptos.
-Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (SvelteKit) Intereses Desarrollo backend Minería de datos GraphQL </description>
+Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (Svelte) Intereses Desarrollo backend Minería de datos GraphQL </description>
       <content>&lt;p&gt;Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantemente aprendiendo cosas nuevas, y buscando aplicaciones prácticas para tales conceptos.&lt;/p&gt;
 &lt;h3 id=&#34;tecnologías-con-las-que-he-trabajado&#34;&gt;Tecnologías con las que he trabajado&lt;/h3&gt;
 &lt;ul&gt;
@@ -48,7 +49,7 @@ Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python Post
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;PostgreSQL / MySQL / MariaDB / SQLite&lt;/li&gt;
 &lt;li&gt;HTML/CSS (Bootstrap / TailwindCSS)&lt;/li&gt;
-&lt;li&gt;Javascript (SvelteKit)&lt;/li&gt;
+&lt;li&gt;Javascript (Svelte)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;intereses&#34;&gt;Intereses&lt;/h3&gt;
 &lt;ul&gt;
@@ -56,6 +57,21 @@ Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python Post
 &lt;li&gt;Minería de datos&lt;/li&gt;
 &lt;li&gt;GraphQL&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://mlc-d.github.io/web/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlc-d.github.io/web/contact/</guid>
+      <description>Puedes revisar estos enlaces:
+Email Twitter: @mlc_2220 LinkedIn </description>
+      <content>&lt;p&gt;Puedes revisar estos enlaces:&lt;/p&gt;
+&lt;h3 id=&#34;emailmailtomlcposteonet&#34;&gt;&lt;a href=&#34;mailto:m.lc@posteo.net&#34;&gt;Email&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;twitter-mlc_2220httpstwittercommlc_2220&#34;&gt;&lt;a href=&#34;https://twitter.com/mlc_2220&#34;&gt;Twitter: @mlc_2220&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;linkedinwwwlinkedincominmateo-león-camacho-572b7223a&#34;&gt;&lt;a href=&#34;www.linkedin.com/in/mateo-le%C3%B3n-camacho-572b7223a&#34;&gt;LinkedIn&lt;/a&gt;&lt;/h3&gt;
 </content>
     </item>
     

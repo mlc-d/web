@@ -1,6 +1,5 @@
 ---
 title: "Acerca de"
-date: 2022-06-14T11:42:12-05:00
 draft: false
 translationKey: about
 ---
@@ -12,7 +11,7 @@ Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantem
 - Python
 - PostgreSQL / MySQL / MariaDB / SQLite
 - HTML/CSS (Bootstrap / TailwindCSS)
-- Javascript (SvelteKit)
+- Javascript (Svelte)
 
 ### Intereses
 - Desarrollo backend

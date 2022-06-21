@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2022-06-14T11:42:29-05:00
 draft: false
 translationKey: about
 ---
@@ -12,7 +11,7 @@ Informatics engineering student. Tech enthusiast. Permanentely willing to learn 
 - Python
 - PostgreSQL / MySQL / MariaDB / SQLite
 - HTML/CSS (Bootstrap / TailwindCSS)
-- Javascript (SvelteKit)
+- Javascript (Svelte)
 
 ### Interested in
 - Backend development

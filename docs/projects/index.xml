@@ -13,9 +13,10 @@
       <pubDate>Tue, 14 Jun 2022 13:17:18 -0500</pubDate>
       
       <guid>https://mlc-d.github.io/web/projects/polygon/</guid>
-      <description>API WMS (sistema de administración de almacenes) construída con Golang, usando Echo como servidor web, y bun como ORM (mapeo relacional de objetos). Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.
+      <description>Polygon API WMS (sistema de administración de almacenes) construída con Golang, usando Echo como servidor web, y bun como ORM (mapeo relacional de objetos). Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.
 Código fuente.</description>
-      <content>&lt;p&gt;API WMS &lt;em&gt;(sistema de administración de almacenes)&lt;/em&gt; construída con Golang, usando &lt;a href=&#34;&#34;&gt;Echo&lt;/a&gt; como servidor web, y &lt;a href=&#34;&#34;&gt;bun&lt;/a&gt; como ORM &lt;em&gt;(mapeo relacional de objetos)&lt;/em&gt;. Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.&lt;/p&gt;
+      <content>&lt;h2 id=&#34;polygon&#34;&gt;Polygon&lt;/h2&gt;
+&lt;p&gt;API WMS &lt;em&gt;(sistema de administración de almacenes)&lt;/em&gt; construída con Golang, usando &lt;a href=&#34;https://echo.labstack.com/&#34;&gt;Echo&lt;/a&gt; como servidor web, y &lt;a href=&#34;https://bun.uptrace.dev/&#34;&gt;bun&lt;/a&gt; como ORM &lt;em&gt;(mapeo relacional de objetos)&lt;/em&gt;. Autenticación y autorización de usuarios basada en una solución de JSON Web Tokens (modelo de dos tokens), endpoints protegidos, historial completo de movimientos, operaciones de CRUD básicas y avanzadas.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mlc-d/polygon&#34;&gt;Código fuente.&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
