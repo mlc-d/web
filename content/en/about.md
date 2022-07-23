@@ -12,6 +12,7 @@ Informatics engineering student. Tech enthusiast. Permanentely willing to learn 
 - PostgreSQL / MySQL / MariaDB / SQLite
 - HTML/CSS (Bootstrap / TailwindCSS)
 - Javascript (Svelte)
+- Ruby (Rails)
 
 ### Interested in
 - Backend development

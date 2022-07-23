@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>mlc</title>
     <link>https://mlc-d.github.io/web/en/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on mlc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language><atom:link href="https://mlc-d.github.io/web/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       
       <guid>https://mlc-d.github.io/web/en/about/</guid>
       <description>Informatics engineering student. Tech enthusiast. Permanentely willing to learn new things, and find practial appliances for those concepts.
-Technologies i&amp;rsquo;ve worked with Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (Svelte) Interested in Backend development Data mining GraphQL </description>
+Technologies i&amp;rsquo;ve worked with Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (Svelte) Ruby (Rails) Interested in Backend development Data mining GraphQL </description>
       <content>&lt;p&gt;Informatics engineering student. Tech enthusiast. Permanentely willing to learn new things, and find practial appliances for those concepts.&lt;/p&gt;
 &lt;h3 id=&#34;technologies-ive-worked-with&#34;&gt;Technologies i&amp;rsquo;ve worked with&lt;/h3&gt;
 &lt;ul&gt;
@@ -22,6 +22,7 @@ Technologies i&amp;rsquo;ve worked with Golang (Echo, bun, GORM, HUGO) Python Po
 &lt;li&gt;PostgreSQL / MySQL / MariaDB / SQLite&lt;/li&gt;
 &lt;li&gt;HTML/CSS (Bootstrap / TailwindCSS)&lt;/li&gt;
 &lt;li&gt;Javascript (Svelte)&lt;/li&gt;
+&lt;li&gt;Ruby (Rails)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;interested-in&#34;&gt;Interested in&lt;/h3&gt;
 &lt;ul&gt;

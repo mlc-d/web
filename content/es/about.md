@@ -12,6 +12,7 @@ Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantem
 - PostgreSQL / MySQL / MariaDB / SQLite
 - HTML/CSS (Bootstrap / TailwindCSS)
 - Javascript (Svelte)
+- Ruby (Rails)
 
 ### Intereses
 - Desarrollo backend

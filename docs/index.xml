@@ -13,7 +13,7 @@
       
       <guid>https://mlc-d.github.io/web/about/</guid>
       <description>Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantemente aprendiendo cosas nuevas, y buscando aplicaciones prácticas para tales conceptos.
-Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (Svelte) Intereses Desarrollo backend Minería de datos GraphQL </description>
+Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python PostgreSQL / MySQL / MariaDB / SQLite HTML/CSS (Bootstrap / TailwindCSS) Javascript (Svelte) Ruby (Rails) Intereses Desarrollo backend Minería de datos GraphQL </description>
       <content>&lt;p&gt;Estudiante de ingeniería informática. Entusiasta de la tecnología. Constantemente aprendiendo cosas nuevas, y buscando aplicaciones prácticas para tales conceptos.&lt;/p&gt;
 &lt;h3 id=&#34;tecnologías-con-las-que-he-trabajado&#34;&gt;Tecnologías con las que he trabajado&lt;/h3&gt;
 &lt;ul&gt;
@@ -22,6 +22,7 @@ Tecnologías con las que he trabajado Golang (Echo, bun, GORM, HUGO) Python Post
 &lt;li&gt;PostgreSQL / MySQL / MariaDB / SQLite&lt;/li&gt;
 &lt;li&gt;HTML/CSS (Bootstrap / TailwindCSS)&lt;/li&gt;
 &lt;li&gt;Javascript (Svelte)&lt;/li&gt;
+&lt;li&gt;Ruby (Rails)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;intereses&#34;&gt;Intereses&lt;/h3&gt;
 &lt;ul&gt;
